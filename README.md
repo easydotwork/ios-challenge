@@ -1,10 +1,10 @@
-# Teste de Pré Seleção
-> O objetivo deste teste é avaliar o perfil técnico do candidato mostrando uma prévia dos desafios que podem ser enfrentados em situações do dia a dia. A fim de criar um cenário realista estamos disponibilizando este repositório para que você possa desenvolver o desafio proposto submetendo suas PRs para revisão de nossa equipe técnica.
+# Challenge
+> O objetivo deste desafio é avaliar o perfil técnico do candidato mostrando uma prévia dos desafios que podem ser enfrentados em situações do dia a dia. A fim de criar um cenário realista estamos disponibilizando este repositório para que você possa desenvolver o desafio proposto submetendo suas PRs para revisão de nossa equipe técnica.
 
 
 ## Desafio
 
-- O candidato deverá desenvolver uma aplicação com 3 telas seguindo o seguinte [Layout](https://xd.adobe.com/view/5117f7d5-1869-4df9-b6c8-2be47461e7b7-0444)
+- O candidato deverá desenvolver uma aplicação com 3 telas seguindo o seguinte [Layout](https://xd.adobe.com/view/cd80cfa4-baf4-4535-855b-a6284b8b5562-98d3/)
 
 - Na primeira tela deverá haver um QRCode e um botão para a funcionalidade ler o QRCode. O QR Code deve representar os dados vindo desta [API](https://easywork-challenge.web.app/user)
 
