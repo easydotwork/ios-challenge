@@ -14,7 +14,7 @@
 
 
 ### Para efeito de teste, você pode utilizar esse QR Code para leitura:
-![QR Code](https://easywork-challenge.web.app/user/qrcode.jpg)
+<img src="https://easy-challenge-be0a6.web.app/resources/qr_yoou_challenge.svg" height="50%" width="50%">
 
 
 ## Lista de requisitos técnicos
