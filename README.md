@@ -6,7 +6,7 @@
 
 - O candidato deverá desenvolver uma aplicação com 3 telas seguindo o seguinte [Layout](https://xd.adobe.com/view/cd80cfa4-baf4-4535-855b-a6284b8b5562-98d3/)
 
-- Na primeira tela deverá haver um QRCode e um botão para a funcionalidade ler o QRCode. O QR Code deve representar os dados vindo desta [API](https://easywork-challenge.web.app/user)
+- Na primeira tela deverá haver um QRCode e um botão para a funcionalidade ler o QRCode. O QR Code deve representar os dados vindo desta [API](https://easy-challenge-be0a6.web.app/user)
 
 - Na segunda tela devará conter a uma área com a funcionalidade de leitura de QR Code. O resulta da leitura é um JSON com os dados do usuário. 
 
